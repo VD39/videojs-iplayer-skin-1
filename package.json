@@ -1,0 +1,30 @@
+{
+  "name": "videojs-iplayer-skin-1",
+  "title": "A Video.JS skin modelled on the new iPlayer theme.",
+  "url": "",
+  "author": "Vijay Dubb",
+  "copyright": "2017",
+  "version": "1.0.0",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VD39/videojs-iplayer-skin-1.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "grunt build",
+    "dev": "grunt"
+  },
+  "devDependencies": {
+    "connect-livereload": "~0.2.0",
+    "grunt": "~0.4.1",
+    "grunt-contrib-clean": "^1.1.0",
+    "grunt-contrib-concat": "~0.3.0",
+    "grunt-contrib-connect": "~0.3.0",
+    "grunt-contrib-sass": "~0.5.0",
+    "grunt-contrib-uglify": "~0.2.0",
+    "grunt-contrib-watch": "~0.4.4",
+    "grunt-open": "~0.2.0",
+    "matchdep": "~0.1.2"
+  }
+}
