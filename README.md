@@ -1,4 +1,4 @@
-# Video.JS iPlayer Skin
+# Video.JS iPlayer Skin (2017)
 A Video.JS skin modelled on the new iPlayer theme.
 
 [Video.js](http://www.videojs.com/)
@@ -12,7 +12,7 @@ Supports HTML5 video, HTML5 audio, and YouTube videos (using [videojs-youtube](h
 ## Install
 
 ```sh
-npm install videojs-iplayer-skin-1 --save
+npm install videojs-iplayer-skin1 --save
 ```
 
-### Works with version 6 of Video.js
+### Works only with version 6 of Video.js
