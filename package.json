@@ -1,5 +1,5 @@
 {
-  "name": "videojs-iplayer-skin1",
+  "name": "videojs-iplayer-skin-1",
   "title": "A Video.JS skin modelled on the new iPlayer theme.",
   "url": "",
   "author": "Vijay Dubb",
@@ -8,7 +8,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/VD39/videojs-iplayer-skin1.git"
+    "url": "https://github.com/VD39/videojs-iplayer-skin-1.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
