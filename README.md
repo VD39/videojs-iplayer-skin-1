@@ -12,7 +12,7 @@ Supports HTML5 video, HTML5 audio, and YouTube videos (using [videojs-youtube](h
 ## Install
 
 ```sh
-npm install videojs-iplayer-skin1 --save
+npm install videojs-iplayer-skin-1 --save
 ```
 
 ### Works only with version 6 of Video.js
