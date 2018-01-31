@@ -1,6 +1,6 @@
 # Video.JS iPlayer Skin (2017)
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/VD39/es6-webpack-boilerplate/blob/master/LICENSE)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/VD39/videojs-iplayer-skin-1/blob/master/LICENSE)
 
 A Video.JS skin modelled on the new iPlayer theme.
 
@@ -21,4 +21,4 @@ npm install videojs-iplayer-skin-1 --save
 ### Works only with version 6 of Video.js
 
 ## License
-[MIT](https://github.com/VD39/es6-webpack-boilerplate/blob/master/LICENSE)
+[MIT](https://github.com/VD39/videojs-iplayer-skin-1/blob/master/LICENSE)
