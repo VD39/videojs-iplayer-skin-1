@@ -8,7 +8,7 @@ A Video.JS skin modelled on the new iPlayer theme.
 
 [iPlayer](http://www.bbc.co.uk/iplayer)
 
-## [Working Demo](https://run.plnkr.co/plunks/p1nuP4ep7JhpnMKd9uFr/)
+## [Working Demo](https://vd39.github.io/videojs-iplayer-skin-1/example/)
 
 Supports HTML5 video, HTML5 audio, and YouTube videos (using [videojs-youtube](https://github.com/videojs/videojs-youtube)).
 
